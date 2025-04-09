@@ -39,7 +39,7 @@ body{
    
 }
 .hero{
-        background-image: url(/coffeemainpic.jpg);
+        background-image: url(../images/coffeemainpic.jpg);
         background-size: cover;
         background-position: center;
         height: 90vh;
